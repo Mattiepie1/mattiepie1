@@ -1,5 +1,5 @@
-title: El_photography
-url: https://samd97.github.io/el_photo/
+title: pizza
+url: https://www.matttech.dev/
 baseurl: 
 
 author: Disha Patel
@@ -12,31 +12,19 @@ collections_dir: series
 collections:
   home:
     output: true
-  pondi:
+  supreme:
     output: true
-  kochi:
+  meatloves:
     output: true
-  rj_women:
+  hawain:
     output: true
-  venice:
+  magharita:
     output: true
-  chinatown:
+  pizza1:
     output: true
-  rimi:
+  pizza2:
     output: true
-  london:
-    output: true
-  mumbai:
-    output: true
-  cn_fishnet:
-    output: true
-  market:
-    output: 
-  bastilleday:
-    output: true
-  kathakali:
-    output: true 
-
+ 
 markdown: kramdown
 kramdown:
   input: GFM
