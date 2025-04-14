@@ -11,6 +11,7 @@ order: 3
 		{% assign mypages = site.pages | where: "type", "project" %}
 		{% for page in mypages %}
 		<a class="button" href="{{ page.url | relative_url }}">{{ page.title }}</a>
+		{{ page.description }}
 		{% endfor %}
 	</div>
 </div>
