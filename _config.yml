@@ -14,17 +14,7 @@ collections:
     output: true
   supreme:
     output: true
-  meatloves:
-    output: true
-  hawain:
-    output: true
-  magharita:
-    output: true
-  pizza1:
-    output: true
-  pizza2:
-    output: true
- 
+    
 markdown: kramdown
 kramdown:
   input: GFM
